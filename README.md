@@ -1,4 +1,17 @@
 # Movie-Recommendation-System - Deployment
+
+
+### Key Topics Covered:
+
+- **Data Collection and Preprocessing**
+- **Exploratory Data Analysis**
+- **Collaborative Filtering**
+- **Content-Based Filtering**
+- **Recommendation Engine**
+- **User Interface Development**
+- **Deployment and Hosting**
+
+
 ### A content based movie recommender system using cosine similarity.
 
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.6](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![NLTK](https://img.shields.io/badge/Library-NLTK-orange.svg)
